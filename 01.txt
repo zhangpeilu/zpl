@@ -1,0 +1,6 @@
+readme
+早上好
+晚上好
+中午好
+你好
+hello word!
